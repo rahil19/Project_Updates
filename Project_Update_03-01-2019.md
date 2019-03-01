@@ -1,4 +1,4 @@
-# **Project Update (02/15/2019)**
+# **Project Update (03/01/2019)**
 Note: Tick mark means completed tasks. Will be removed in the latter project update documents.
 ## Parikh (HIV mutation analysis)
 *Summary: Finding mutations in  HIV RT sequences resistant to drugs from clinical trails and MP samples*
